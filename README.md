@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido utilizando o Tinkercad para simular um protótipo de lâmpada RGB controlada por um Arduino Uno. A lâmpada pode alterar suas cores com base em diferentes entradas, como sensores e potenciômetros.
 
+## Imagem do Projeto
+
+![Imagem do Projeto](/media/prototype.png)
+
 ## Componentes Utilizados
 
 Abaixo estão listados os componentes utilizados no projeto:
